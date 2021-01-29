@@ -14,7 +14,7 @@
 [![Support Server](https://img.shields.io/discord/591914197219016707.svg?label=ComuniDice&logo=Discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/NbDX2D7q3p)
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danielmalka&theme=monokai&show_icons=true&count_private=true&locale=pt-BR)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmalka)](https://github.com/danielmalka)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danielmalka&theme=monokai&show_icons=true&count_private=true&locale=pt-BR)](https://github.com/danielmalka)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielmalka)](https://github.com/danielmalka)
 
 ![image](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
