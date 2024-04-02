@@ -1,8 +1,10 @@
 ## *"Malka"* - Daniel Lemos 
 
-- Desenvolvedor Full Stack
-- Narrador de RPG
-- Estudante de Análise e Desenvolvimento de Sistemas
+- Tech Manager | Software Engineer Manager | Senior Software Engineer
+- 14+ anos de foco em Desenvolvimento Backend com algumas aplicações envolvendo Frontend
+- PHP | Golang | Python | NodeJS
+- Narrador de RPG no tempo livre, pai da Laura e do Dante em tempo integral
+
 
 [![Picpay Badge](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-21C25E?style=flat-square&logo=picpay&logoColor=white&link=https://picpay.me/malka)](https://picpay.me/malka/)
 
